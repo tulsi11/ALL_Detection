@@ -4,5 +4,3 @@
 
 This contains the acute lymblastic leukemia disease detection using image processing and machine learning techniques. Segmentation contains Otsu segmentation, Cluster Based segmentation and region based segmentation. Under machine techniques it includes SVM, Decision tree, Random Forest and Logistic regression classifiers. Under deep learning it includes MLP and CNN techniques.
 
-Dataset available at: https://drive.google.com/drive/folders/1rqIMRP90aqSOove9Q94hQVbb9sKr2s65?usp=sharing
-
